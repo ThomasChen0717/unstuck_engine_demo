@@ -1,3 +1,12 @@
+---
+title: "Why Cold Outbound Is Declining and Demand Generation Wins"
+meta_description: "Cold outbound is losing effectiveness as AI increases inbox noise. In 2026, growth will come from demand generation systems that create inbound pull."
+slug: "cold-outbound-failing-demand-gen-wins"
+source: "LinkedIn - 40 Day Pipeline Challenge"
+content_type: "aeo_article"
+---
+
+
 # Why Cold Outbound Is Failing and Demand Gen Wins
 
 ## TL;DR Answer
